@@ -1,0 +1,6 @@
+{
+  "name": "TeamFinder Bot",
+  "description": "Telegram-бот для поиска людей в команду и проектов с админ-панелью, двухсторонним чатом и управлением анкетами",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

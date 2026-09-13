@@ -1,0 +1,13 @@
+[
+  "teamfinder/tests/test_scenarios.py::test_platform_statistics_and_search",
+  "teamfinder/tests/test_scenarios.py::test_scenario_10_and_11_admin_rejects",
+  "teamfinder/tests/test_scenarios.py::test_scenario_12_to_14_safe_two_way_chat_relay",
+  "teamfinder/tests/test_scenarios.py::test_scenario_15_unauthorized_admin_access",
+  "teamfinder/tests/test_scenarios.py::test_scenario_16_blocked_user_prevention",
+  "teamfinder/tests/test_scenarios.py::test_scenario_17_double_click_and_idempotency_protection",
+  "teamfinder/tests/test_scenarios.py::test_scenario_18_persistence_across_restart",
+  "teamfinder/tests/test_scenarios.py::test_scenario_1_and_2_start_and_create_application",
+  "teamfinder/tests/test_scenarios.py::test_scenario_3_input_validation_errors",
+  "teamfinder/tests/test_scenarios.py::test_scenario_4_and_5_back_navigation_and_cancellation",
+  "teamfinder/tests/test_scenarios.py::test_scenario_6_to_9_admin_receives_and_accepts"
+]

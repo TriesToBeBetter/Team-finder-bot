@@ -293,5 +293,5 @@ sudo systemctl restart teamfinder.service
 Проект содержит полный автоматизированный тестовый набор на **pytest**, покрывающий все 18 сценариев из технического задания:
 
 ```bash
-pytest teamfinder/tests/ -v
+pytest tests/ -v
 ```
